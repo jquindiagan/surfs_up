@@ -133,4 +133,5 @@ dmypy.json
 config.py
 config*
 app2.py
+app_practice.py
 hawaii.sqlite
