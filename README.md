@@ -24,7 +24,7 @@ We can conclude that the surf and ice cream shop business can be sustainable yea
 
 ### Additional queries
 
-1. An additional query performed was to filter the June and December data sets to a single year. The most recent and complet data set was analyzed, which was the year 2016.
+1. An additional query performed was to filter the June and December data sets to a single year. The most recent and complete data set was analyzed, which was the year 2016.
 
 Below is a summary of temperatures for June (left) and December (right).
 
@@ -32,7 +32,7 @@ Below is a summary of temperatures for June (left) and December (right).
 
 Unlike the initial query, the minimum temperature for June and December in 2016 was only a four percent difference. The percentage differences in other areas stayed consistent, with the difference increasing three to four percent.
 
-2. To gain a better understanding of the temperature year-round, a query was performed to compare the June and December temperatures to other months in the year. The most recent and complete data set was analyzed, which was the year 2016.
+2. To gain a better understanding of the temperature year-round, a query was performed to compare the June and December temperatures to other months in the year. The entire year of 2016 was analyzed.
 
 <img src="resources/y2016_temp.png" align="center">
 
