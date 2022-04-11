@@ -132,6 +132,3 @@ dmypy.json
 .env
 config.py
 config*
-app2.py
-app_practice.py
-hawaii.sqlite
