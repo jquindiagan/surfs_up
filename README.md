@@ -36,6 +36,6 @@ Unlike the initial query, the minimum temperature for June and December in 2016 
 
 <img src="resources/y2016_temp.png" align="center">
 
-<img src="resources/y2016_summary.png" width="25%" height="25%" align="center">
+<p align="center"><img src="resources/y2016_summary.png" width="25%" height="25%"></p>
 
 The graph and summary above shows that other than peak temperatures in August, temperatures range in the 70's year-round.
