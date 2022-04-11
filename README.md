@@ -10,7 +10,7 @@ The purpose of this analysis was to practice using Python, Pandas functions and 
 
 Below is a summary of temperatures for June (left) and December (right).
 
-<img src="resources/jun_summary.png" height="25%" width="25%" align=left> <img src="resources/dec_summary.png" height="25%" width="25%"> 
+<p align="center"><img src="resources/jun_summary.png" height="25%" width="25%" align=left> <img src="resources/dec_summary.png" height="25%" width="25%"></p>
 
 Key differences:
 - **mean**: The average temperature in the month of June was 74 degrees while the average temperature in December was 71.
@@ -28,7 +28,7 @@ We can conclude that the surf and ice cream shop business can be sustainable yea
 
     Below is a summary of temperatures for June (left) and December (right).
 
-    <img src="resources/jun16_summary.png" height="25%" width="25%" align=left> <img src="resources/dec16_summary.png" height="25%" width="25%"> 
+    <p align="center"><img src="resources/jun16_summary.png" height="25%" width="25%" align=left> <img src="resources/dec16_summary.png" height="25%" width="25%"></p>
 
     Unlike the initial query, the minimum temperature for June and December in 2016 was only a four percent difference. The percentage differences in other areas stayed consistent, with the difference increasing three to four percent.
 
