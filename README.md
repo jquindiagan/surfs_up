@@ -8,6 +8,6 @@ The purpose of this analysis was to practice using Python, Pandas functions and 
 
 ## Results
 
-### Sub
+<img src="resources/jun_summary" align=left height="50%" width="50%"> <img src="resources/dec_summary" height="50%" width="50%> 
 
 ## Summary
