@@ -19,7 +19,7 @@ Key differences:
 
 ## Summary
 
-While there are significant differences in the lowest temperatures for the month, there is only a three percent difference in the average temperatures for June and December.
+While the difference in the lowest temperatures for the month is eight percent, there is only a two to three percent difference in other areas such as the average and highest temperatures.
 
 ### Additional queries
 
@@ -29,8 +29,12 @@ Below is a summary of temperatures for June (left) and December (right).
 
 <img src="resources/jun16_summary.png" height="25%" width="25%" align=left> <img src="resources/dec16_summary.png" height="25%" width="25%"> 
 
-2. To gain a better understanding of the temperature year-round, a query was performed to compare the June and December temperatures to other months in the year. The most recent and complet data set was analyzed, which was the year 2016.
+Unlike the initial query, the minimum temperature for June and December in 2016 was only a four percent difference. The percentage differences in other areas stayed consistent, with the difference increasing three to four percent.
 
-<img src="resources/y2016_temp.png" align=left> <img src="resources/y2016_summary.png" width="25%" height="25%">
+2. To gain a better understanding of the temperature year-round, a query was performed to compare the June and December temperatures to other months in the year. The most recent and complete data set was analyzed, which was the year 2016.
+
+<img src="resources/y2016_temp.png" align="center">
+
+<img src="resources/y2016_summary.png" width="25%" height="25%" align="center">
 
 The graph and summary above shows that other than peak temperatures in August, temperatures range in the 70's year-round.
