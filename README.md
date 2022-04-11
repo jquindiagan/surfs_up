@@ -20,6 +20,7 @@ Key differences:
 ## Summary
 
 While the difference in the lowest temperatures for the month is eight percent, there is only a two to three percent difference in other areas such as the average and highest temperatures.
+We can conclude that the surf and ice cream shop business can be sustainable year-round.
 
 ### Additional queries
 
