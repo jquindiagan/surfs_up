@@ -26,16 +26,16 @@ We can conclude that the surf and ice cream shop business can be sustainable yea
 
 1. An additional query performed was to filter the June and December data sets to a single year. The most recent and complete data set was analyzed, which was the year 2016.
 
-Below is a summary of temperatures for June (left) and December (right).
+    Below is a summary of temperatures for June (left) and December (right).
 
-<img src="resources/jun16_summary.png" height="25%" width="25%" align=left> <img src="resources/dec16_summary.png" height="25%" width="25%"> 
+    <img src="resources/jun16_summary.png" height="25%" width="25%" align=left> <img src="resources/dec16_summary.png" height="25%" width="25%"> 
 
-Unlike the initial query, the minimum temperature for June and December in 2016 was only a four percent difference. The percentage differences in other areas stayed consistent, with the difference increasing three to four percent.
+    Unlike the initial query, the minimum temperature for June and December in 2016 was only a four percent difference. The percentage differences in other areas stayed consistent, with the difference increasing three to four percent.
 
 2. To gain a better understanding of the temperature year-round, a query was performed to compare the June and December temperatures to other months in the year. The entire year of 2016 was analyzed.
 
-<img src="resources/y2016_temp.png" align="center">
+    <img src="resources/y2016_temp.png" align="center">
 
-<p align="center"><img src="resources/y2016_summary.png" width="25%" height="25%"></p>
+    <p align="center"><img src="resources/y2016_summary.png" width="25%" height="25%"></p>
 
-The graph and summary above shows that other than peak temperatures in August, temperatures range in the 70's year-round.
+    The graph and summary above shows that other than peak temperatures in August, temperatures range in the 70's year-round.
